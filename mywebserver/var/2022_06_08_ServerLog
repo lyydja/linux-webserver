@@ -1,0 +1,220 @@
+2022-06-08 15:50:18.356764 [info]: timer tick
+2022-06-08 15:50:22.200565 [info]: deal with the client(192.168.206.1)
+2022-06-08 15:50:22.200891 [info]: adjust timer once
+2022-06-08 15:50:22.201009 [info]: got http lines: 
+2022-06-08 15:50:22.201041 [info]: GET /images/image1.jpg HTTP/1.1
+2022-06-08 15:50:22.201057 [info]: Host: 192.168.206.128:9006
+2022-06-08 15:50:22.201068 [info]: Connection: keep-alive
+2022-06-08 15:50:22.201082 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36
+2022-06-08 15:50:22.201099 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2022-06-08 15:50:22.201113 [info]: Referer: http://192.168.206.128:9006/index.html
+2022-06-08 15:50:22.201129 [info]: Accept-Encoding: gzip, deflate
+2022-06-08 15:50:22.201138 [info]: Accept-Language: zh-CN,zh;q=0.9
+2022-06-08 15:50:22.201169 [info]: request: HTTP/1.1 200 OK
+
+2022-06-08 15:50:22.201229 [info]: request: HTTP/1.1 200 OK
+Content-Length: 67313
+
+2022-06-08 15:50:22.201247 [info]: request: HTTP/1.1 200 OK
+Content-Length: 67313
+Connection: keep-alive
+
+2022-06-08 15:50:22.201256 [info]: request: HTTP/1.1 200 OK
+Content-Length: 67313
+Connection: keep-alive
+
+
+2022-06-08 15:50:22.202893 [info]: send data to the client(192.168.206.1)
+2022-06-08 15:50:22.203002 [info]: adjust timer once
+2022-06-08 15:50:22.403954 [info]: deal with the client(192.168.206.1)
+2022-06-08 15:50:22.404098 [info]: adjust timer once
+2022-06-08 15:50:22.404196 [info]: got http lines: 
+2022-06-08 15:50:22.404256 [info]: GET /favicon.ico HTTP/1.1
+2022-06-08 15:50:22.404280 [info]: Host: 192.168.206.128:9006
+2022-06-08 15:50:22.404292 [info]: Connection: keep-alive
+2022-06-08 15:50:22.404304 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36
+2022-06-08 15:50:22.404315 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2022-06-08 15:50:22.404327 [info]: Referer: http://192.168.206.128:9006/index.html
+2022-06-08 15:50:22.404338 [info]: Accept-Encoding: gzip, deflate
+2022-06-08 15:50:22.404355 [info]: Accept-Language: zh-CN,zh;q=0.9
+2022-06-08 15:50:22.404428 [info]: request: HTTP/1.1 404 Not Found
+
+2022-06-08 15:50:22.404498 [info]: request: HTTP/1.1 404 Not Found
+Content-Length: 50
+
+2022-06-08 15:50:22.404525 [info]: request: HTTP/1.1 404 Not Found
+Content-Length: 50
+Connection: keep-alive
+
+2022-06-08 15:50:22.404621 [info]: request: HTTP/1.1 404 Not Found
+Content-Length: 50
+Connection: keep-alive
+
+
+2022-06-08 15:50:22.404633 [info]: request: HTTP/1.1 404 Not Found
+Content-Length: 50
+Connection: keep-alive
+
+The requeseted file was not found on this server.
+
+2022-06-08 15:50:22.405258 [info]: send data to the client(192.168.206.1)
+2022-06-08 15:50:22.405340 [info]: adjust timer once
+2022-06-08 15:50:23.357011 [info]: timer tick
+2022-06-08 15:50:23.762409 [info]: deal with the client(192.168.206.1)
+2022-06-08 15:50:23.762670 [info]: adjust timer once
+2022-06-08 15:50:23.762731 [info]: got http lines: 
+2022-06-08 15:50:23.762804 [info]: POST /1 HTTP/1.1
+2022-06-08 15:50:23.762827 [info]: Host: 192.168.206.128:9006
+2022-06-08 15:50:23.762839 [info]: Connection: keep-alive
+2022-06-08 15:50:23.762848 [info]: Content_Length: 0
+2022-06-08 15:50:23.762881 [info]: Cache-Control: max-age=0
+2022-06-08 15:50:23.762898 [info]: Upgrade-Insecure-Requests: 1
+2022-06-08 15:50:23.762907 [info]: Origin: http://192.168.206.128:9006
+2022-06-08 15:50:23.762917 [info]: Content-Type: application/x-www-form-urlencoded
+2022-06-08 15:50:23.762946 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36
+2022-06-08 15:50:23.762964 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-06-08 15:50:23.762974 [info]: Referer: http://192.168.206.128:9006/index.html
+2022-06-08 15:50:23.763003 [info]: Accept-Encoding: gzip, deflate
+2022-06-08 15:50:23.763051 [info]: Accept-Language: zh-CN,zh;q=0.9
+2022-06-08 15:50:23.763118 [info]: request: HTTP/1.1 200 OK
+
+2022-06-08 15:50:23.763160 [info]: request: HTTP/1.1 200 OK
+Content-Length: 814
+
+2022-06-08 15:50:23.763183 [info]: request: HTTP/1.1 200 OK
+Content-Length: 814
+Connection: keep-alive
+
+2022-06-08 15:50:23.763194 [info]: request: HTTP/1.1 200 OK
+Content-Length: 814
+Connection: keep-alive
+
+
+2022-06-08 15:50:23.764093 [info]: send data to the client(192.168.206.1)
+2022-06-08 15:50:23.764333 [info]: adjust timer once
+2022-06-08 15:50:26.315610 [info]: deal with the client(192.168.206.1)
+2022-06-08 15:50:26.315747 [info]: adjust timer once
+2022-06-08 15:50:26.315832 [info]: got http lines: 
+2022-06-08 15:50:26.315899 [info]: POST /2CGISQL.cgi HTTP/1.1
+2022-06-08 15:50:26.315927 [info]: Host: 192.168.206.128:9006
+2022-06-08 15:50:26.315938 [info]: Connection: keep-alive
+2022-06-08 15:50:26.315947 [info]: Content_Length: 19
+2022-06-08 15:50:26.315962 [info]: Cache-Control: max-age=0
+2022-06-08 15:50:26.315982 [info]: Upgrade-Insecure-Requests: 1
+2022-06-08 15:50:26.315994 [info]: Origin: http://192.168.206.128:9006
+2022-06-08 15:50:26.316004 [info]: Content-Type: application/x-www-form-urlencoded
+2022-06-08 15:50:26.316014 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36
+2022-06-08 15:50:26.316025 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-06-08 15:50:26.316038 [info]: Referer: http://192.168.206.128:9006/1
+2022-06-08 15:50:26.316049 [info]: Accept-Encoding: gzip, deflate
+2022-06-08 15:50:26.316060 [info]: Accept-Language: zh-CN,zh;q=0.9
+2022-06-08 15:50:26.316070 [info]: content: user=11&password=11
+2022-06-08 15:50:26.316148 [info]: request: HTTP/1.1 200 OK
+
+2022-06-08 15:50:26.316173 [info]: request: HTTP/1.1 200 OK
+Content-Length: 711
+
+2022-06-08 15:50:26.316183 [info]: request: HTTP/1.1 200 OK
+Content-Length: 711
+Connection: keep-alive
+
+2022-06-08 15:50:26.316198 [info]: request: HTTP/1.1 200 OK
+Content-Length: 711
+Connection: keep-alive
+
+
+2022-06-08 15:50:26.317148 [info]: send data to the client(192.168.206.1)
+2022-06-08 15:50:26.317233 [info]: adjust timer once
+2022-06-08 15:50:27.526847 [info]: deal with the client(192.168.206.1)
+2022-06-08 15:50:27.527272 [info]: adjust timer once
+2022-06-08 15:50:27.527334 [info]: got http lines: 
+2022-06-08 15:50:27.527371 [info]: POST /7 HTTP/1.1
+2022-06-08 15:50:27.527387 [info]: Host: 192.168.206.128:9006
+2022-06-08 15:50:27.527397 [info]: Connection: keep-alive
+2022-06-08 15:50:27.527406 [info]: Content_Length: 0
+2022-06-08 15:50:27.527415 [info]: Cache-Control: max-age=0
+2022-06-08 15:50:27.527428 [info]: Upgrade-Insecure-Requests: 1
+2022-06-08 15:50:27.527439 [info]: Origin: http://192.168.206.128:9006
+2022-06-08 15:50:27.527452 [info]: Content-Type: application/x-www-form-urlencoded
+2022-06-08 15:50:27.527462 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36
+2022-06-08 15:50:27.527472 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-06-08 15:50:27.527482 [info]: Referer: http://192.168.206.128:9006/2CGISQL.cgi
+2022-06-08 15:50:27.527586 [info]: Accept-Encoding: gzip, deflate
+2022-06-08 15:50:27.527660 [info]: Accept-Language: zh-CN,zh;q=0.9
+2022-06-08 15:50:27.527846 [info]: request: HTTP/1.1 200 OK
+
+2022-06-08 15:50:27.527867 [info]: request: HTTP/1.1 200 OK
+Content-Length: 394
+
+2022-06-08 15:50:27.527910 [info]: request: HTTP/1.1 200 OK
+Content-Length: 394
+Connection: keep-alive
+
+2022-06-08 15:50:27.527921 [info]: request: HTTP/1.1 200 OK
+Content-Length: 394
+Connection: keep-alive
+
+
+2022-06-08 15:50:27.529312 [info]: send data to the client(192.168.206.1)
+2022-06-08 15:50:27.529518 [info]: adjust timer once
+2022-06-08 15:50:27.558740 [info]: deal with the client(192.168.206.1)
+2022-06-08 15:50:27.558947 [info]: adjust timer once
+2022-06-08 15:50:27.559013 [info]: got http lines: 
+2022-06-08 15:50:27.559058 [info]: GET /images/test1.jpg HTTP/1.1
+2022-06-08 15:50:27.559074 [info]: Host: 192.168.206.128:9006
+2022-06-08 15:50:27.559085 [info]: Connection: keep-alive
+2022-06-08 15:50:27.559095 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36
+2022-06-08 15:50:27.559106 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2022-06-08 15:50:27.559116 [info]: Referer: http://192.168.206.128:9006/7
+2022-06-08 15:50:27.559126 [info]: Accept-Encoding: gzip, deflate
+2022-06-08 15:50:27.559135 [info]: Accept-Language: zh-CN,zh;q=0.9
+2022-06-08 15:50:27.560171 [info]: request: HTTP/1.1 200 OK
+
+2022-06-08 15:50:27.560402 [info]: request: HTTP/1.1 200 OK
+Content-Length: 78443
+
+2022-06-08 15:50:27.560436 [info]: request: HTTP/1.1 200 OK
+Content-Length: 78443
+Connection: keep-alive
+
+2022-06-08 15:50:27.560446 [info]: request: HTTP/1.1 200 OK
+Content-Length: 78443
+Connection: keep-alive
+
+
+2022-06-08 15:50:27.563430 [info]: send data to the client(192.168.206.1)
+2022-06-08 15:50:27.563524 [info]: adjust timer once
+2022-06-08 15:50:28.358288 [info]: timer tick
+2022-06-08 15:50:30.925146 [info]: deal with the client(192.168.206.1)
+2022-06-08 15:50:30.925291 [info]: adjust timer once
+2022-06-08 15:50:30.925361 [info]: got http lines: 
+2022-06-08 15:50:30.925450 [info]: POST /0 HTTP/1.1
+2022-06-08 15:50:30.925473 [info]: Host: 192.168.206.128:9006
+2022-06-08 15:50:30.925480 [info]: Connection: keep-alive
+2022-06-08 15:50:30.925487 [info]: Content_Length: 0
+2022-06-08 15:50:30.925497 [info]: Cache-Control: max-age=0
+2022-06-08 15:50:30.925503 [info]: Upgrade-Insecure-Requests: 1
+2022-06-08 15:50:30.925509 [info]: Origin: http://192.168.206.128:9006
+2022-06-08 15:50:30.925514 [info]: Content-Type: application/x-www-form-urlencoded
+2022-06-08 15:50:30.925520 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36
+2022-06-08 15:50:30.925532 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-06-08 15:50:30.925538 [info]: Referer: http://192.168.206.128:9006/index.html
+2022-06-08 15:50:30.925543 [info]: Accept-Encoding: gzip, deflate
+2022-06-08 15:50:30.925557 [info]: Accept-Language: zh-CN,zh;q=0.9
+2022-06-08 15:50:30.925600 [info]: request: HTTP/1.1 200 OK
+
+2022-06-08 15:50:30.925826 [info]: request: HTTP/1.1 200 OK
+Content-Length: 727
+
+2022-06-08 15:50:30.925854 [info]: request: HTTP/1.1 200 OK
+Content-Length: 727
+Connection: keep-alive
+
+2022-06-08 15:50:30.925864 [info]: request: HTTP/1.1 200 OK
+Content-Length: 727
+Connection: keep-alive
+
+
+2022-06-08 15:50:30.926999 [info]: send data to the client(192.168.206.1)
+2022-06-08 15:50:30.927130 [info]: adjust timer once
+2022-06-08 15:50:33.358561 [info]: timer tick

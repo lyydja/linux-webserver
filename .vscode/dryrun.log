@@ -1,0 +1,5 @@
+make server --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/nowcoder/project'
+g++ main.cpp ./http/http_conn.cpp ./log/log.cpp ./webserver/webserver.cpp ./timer/timer.cpp ./CGIMysql/sql_connection_pool.cpp ./config/config.cpp -std=c++11 -I/usr/include/mysql -L/usr/lib/mysql -o server -pthread -lmysqlclient 
+make: Leaving directory '/home/nowcoder/project'
+ 
