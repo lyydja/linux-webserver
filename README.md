@@ -6,5 +6,5 @@
 * 实现同步/异步日志系统，记录服务器运行状态
 
 ### 致谢
-Linux高性能服务器编程，游双著.
-https://github.com/qinguoyi/TinyWebServer
+  * Linux高性能服务器编程，游双著.
+  * https://github.com/qinguoyi/TinyWebServer
